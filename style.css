@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+#title{
+    border-radius: 15px 50px 30px;
+    background-image: linear-gradient(lightblue, blue);
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    width: 1030px;
+    height: 150px;
+}
+.mainheading{
+    font-size: 100px;
+    font-family: 'Caveat', cursive;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
